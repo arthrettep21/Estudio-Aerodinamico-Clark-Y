@@ -1,1 +1,1 @@
-# Estudio-Aerodin-mico-Clark-Y
+# Estudio-Aerodinámico-Clark-Y
