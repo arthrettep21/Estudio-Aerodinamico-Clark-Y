@@ -1,0 +1,30 @@
+=======================================================
+      RESULTADOS DE PUNTOS CARACTERÍSTICOS (STR)
+=======================================================
+Archivo analizado: BL DATA, Re66k.txt
+
+Punto S (Separación Laminar):
+  x/c   = 0.17945
+  Cf    = -0.00011
+  Hk    = 3.868
+  D*    = 0.00447
+  Theta = 0.00116
+
+Punto T (Transición Turbulenta):
+  x/c   = 0.41984
+  Cf    = -0.00049
+  Hk    = 6.547
+  D*    = 0.01270
+  Theta = 0.00194
+
+Punto R (Reenganche Turbulento):
+  x/c   = 0.44992
+  Cf    = 0.00020
+  Hk    = 3.644
+  D*    = 0.01155
+  Theta = 0.00317
+
+=======================================================
+Longitud de la Burbuja (L_burbuja) = x_R - x_S = 0.27047 c
+Estado: Burbuja de separación laminar detectada correctamente.
+=======================================================

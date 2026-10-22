@@ -1,0 +1,13 @@
+=======================================================
+      RESULTADOS DE PUNTOS CARACTERÍSTICOS (STR)
+=======================================================
+Archivo analizado: BL DATA, Re66k,trip10%.txt
+
+[!] NO SE PUDO CONFIGURAR UNA BURBUJA COMPLETA S-T-R.
+MOTIVO: Aviso: No se detectó separación laminar (el coeficiente de fricción Cf es siempre positivo en todo el extradós).
+
+Detalle del análisis:
+- Punto S (Separación): NO DETECTADO
+- Punto T (Transición): NO DETECTADO
+- Punto R (Reenganche): NO DETECTADO
+=======================================================
